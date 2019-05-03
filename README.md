@@ -2,4 +2,13 @@
 My very first GitHub Repo!! 
 
 
-Hi!!!! 
+## Favorite Movies
+- spiderman
+-  best of enimies
+-  shazam 
+-  
+## Favorite Books
+
+-white fang
+-harry potter
+-star wars 
